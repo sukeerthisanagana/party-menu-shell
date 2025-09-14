@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/party-menu-shell/static/css/main.44ba4359.css",
+    "main.js": "/party-menu-shell/static/js/main.262fbdf4.js",
+    "index.html": "/party-menu-shell/index.html",
+    "main.44ba4359.css.map": "/party-menu-shell/static/css/main.44ba4359.css.map",
+    "main.262fbdf4.js.map": "/party-menu-shell/static/js/main.262fbdf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44ba4359.css",
+    "static/js/main.262fbdf4.js"
+  ]
+}
