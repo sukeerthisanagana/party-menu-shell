@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Spring Rolls",
+    "mealType": "STARTER",
+    "type": "VEG",
+    "description": "Crispy vegetable spring rolls served with chutney.",
+    "image": "https://images.unsplash.com/photo-1695712641569-05eee7b37b6d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      { "name": "Cabbage", "quantity": "100g" },
+      { "name": "Carrot", "quantity": "50g" },
+      { "name": "Wrapper", "quantity": "6 pcs" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Tikka",
+    "mealType": "STARTER",
+    "type": "NON-VEG",
+    "description": "Tender chicken cubes marinated in spices and grilled.",
+    "image": "https://media.istockphoto.com/id/1320005396/photo/chicken-tikka-kebab.jpg?s=1024x1024&w=is&k=20&c=XKwWOLMtj_R1Qsyj9SJB8dyZAdwceNbixOZ32hm90x0=",
+    "ingredients": [
+      { "name": "Chicken", "quantity": "300g" },
+      { "name": "Yogurt", "quantity": "50g" },
+      { "name": "Spices", "quantity": "10g" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Kadhai Paneer",
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Paneer cubes in a spicy onion-tomato gravy.",
+    "image": "https://media.istockphoto.com/id/1085155140/photo/malai-or-achari-paneer-in-a-gravy-made-using-red-gravy-and-green-capsicum-served-in-a-bowl.jpg?s=1024x1024&w=is&k=20&c=rK28dwrNd8KLBvx3ox9S8-NFJZAPU5e7KpqySsinsCg=",
+    "ingredients": [
+      { "name": "Paneer", "quantity": "250g" },
+      { "name": "Onion", "quantity": "100g" },
+      { "name": "Capsicum", "quantity": "50g" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Butter Chicken",
+    "mealType": "MAIN COURSE",
+    "type": "NON-VEG",
+    "description": "Creamy tomato-based chicken curry with butter.",
+    "image": "https://media.istockphoto.com/id/639390540/photo/indian-butter-chicken.jpg?s=1024x1024&w=is&k=20&c=j57a8Ah2WeNdi1Cv949Wm9FgO14dHhsIAgFVAvP7zlg=",
+    "ingredients": [
+      { "name": "Chicken", "quantity": "400g" },
+      { "name": "Tomato Puree", "quantity": "150g" },
+      { "name": "Butter", "quantity": "30g" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Gulab Jamun",
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "description": "Soft fried dumplings soaked in sugar syrup.",
+    "image": "https://media.istockphoto.com/id/163064596/photo/gulab-jamun.jpg?s=1024x1024&w=is&k=20&c=BsH3XXDJrdlbp3hm3AQd_X-oSvUdPJCZb-P4gkTxIho=",
+    "ingredients": [
+      { "name": "Milk Powder", "quantity": "150g" },
+      { "name": "Flour", "quantity": "50g" },
+      { "name": "Sugar Syrup", "quantity": "200ml" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Brownie",
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "description": "Rich chocolate fudge brownie.",
+    "image": "https://media.istockphoto.com/id/134203159/photo/brownie-cake.jpg?s=1024x1024&w=is&k=20&c=e0CxdeDyk32OpVtvc9_WWhUjahG5M4HCi2tHKV2YThQ=",
+    "ingredients": [
+      { "name": "Chocolate", "quantity": "200g" },
+      { "name": "Flour", "quantity": "100g" },
+      { "name": "Butter", "quantity": "50g" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Fries",
+    "mealType": "SIDES",
+    "type": "VEG",
+    "description": "Crispy golden potato fries.",
+    "image": "https://media.istockphoto.com/id/1218213212/photo/homemade-french-fries-with-ketchup-and-mayonnaise-on-rustic-wooden-table.jpg?s=1024x1024&w=is&k=20&c=AcJMdFIUgmBVlo2AxOQhnbqjPhUZFl2o17wDzLKuFas=",
+    "ingredients": [
+      { "name": "Potato", "quantity": "300g" },
+      { "name": "Salt", "quantity": "5g" },
+      { "name": "Oil", "quantity": "500ml" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Chicken Nuggets",
+    "mealType": "SIDES",
+    "type": "NON-VEG",
+    "description": "Battered chicken nuggets deep fried until crispy.",
+    "image": "https://media.istockphoto.com/id/521000847/photo/vegetable-nuggets.jpg?s=1024x1024&w=is&k=20&c=03f5Lrsc4pbYiG58ngo3sPTepmjU_i6tNhln4iWc4LU=",
+    "ingredients": [
+      { "name": "Chicken", "quantity": "250g" },
+      { "name": "Breadcrumbs", "quantity": "100g" },
+      { "name": "Egg", "quantity": "1 pc" }
+    ]
+  }
+]
